@@ -3,7 +3,7 @@
 
 echo "something";
 
-echo "hey there ! changed.";
+echo "hey there !. Modified this new feature";
 
 
-echo "hey there new!";
+echo "ADded some more.";
