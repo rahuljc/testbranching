@@ -1,4 +1,4 @@
 <?php
 
 
-echo "Featuyre branch,";
+echo "feature branch.";
